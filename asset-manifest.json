@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wpinzon404/practice-react-01.git/static/css/main.e6c13ad2.css",
+    "main.js": "/wpinzon404/practice-react-01.git/static/js/main.5bd2a4ac.js",
+    "static/js/453.ed3810f9.chunk.js": "/wpinzon404/practice-react-01.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/wpinzon404/practice-react-01.git/index.html",
+    "main.e6c13ad2.css.map": "/wpinzon404/practice-react-01.git/static/css/main.e6c13ad2.css.map",
+    "main.5bd2a4ac.js.map": "/wpinzon404/practice-react-01.git/static/js/main.5bd2a4ac.js.map",
+    "453.ed3810f9.chunk.js.map": "/wpinzon404/practice-react-01.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5bd2a4ac.js"
+  ]
+}
